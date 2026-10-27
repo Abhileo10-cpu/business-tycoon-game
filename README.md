@@ -1,0 +1,1 @@
+A full-stack multiplayer board game built with React, Node.js, and Socket.io that fuses classic property trading with real-time digital mechanics. The game features online multiplayer, an automated PC AI, dynamic unlockable themes, and nested arenas where players can compete in actual Chess or 3-Patti matches to build their empire.
